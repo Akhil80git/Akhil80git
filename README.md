@@ -31,3 +31,8 @@ This project is awesome!
 Akhil80git/Akhil80git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://your-edited-image-link.com/banner.png" width="100%"/>
+
+# 🚀 About Me
+Main ek developer hoon, React seekh raha hoon!
+
