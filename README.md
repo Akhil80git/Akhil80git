@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/your-image-name.jpg" alt="Coding Quote" width="200"/>
+</p>
+
 ![Welcome Image](https://example.com/path-to-your-image.jpg)
 
 <img src="https://wallpaperaccess.com/full/317501.jpg" alt="Banner" width="100%"/>
