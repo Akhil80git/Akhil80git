@@ -1,3 +1,5 @@
+![Welcome Image](images/8cf2094c-7486-4ca8-ae9e-44727a326b75.png)
+
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Coding Motivation" width="600"/>
 </p>
