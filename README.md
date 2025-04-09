@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Coding Motivation" width="600"/>
+</p>
+
+<p align="center">
   <img src="images/your-image-name.jpg" alt="Coding Quote" width="200"/>
 </p>
 
