@@ -1,3 +1,9 @@
+<img src="https://wallpaperaccess.com/full/317501.jpg" alt="Banner" width="100%"/>
+
+# Welcome to My Profile
+
+This is my awesome GitHub profile!
+
 - 👋 Hi, I’m @Akhil80git
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
