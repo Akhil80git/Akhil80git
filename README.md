@@ -6,7 +6,7 @@
   <img src="images/your-image-name.jpg" alt="Coding Quote" width="200"/>
 </p>
 
-![Welcome Image](https://example.com/path-to-your-image.jpg)
+![Welcome Image](https://tinyurl.com/58fd4fmx)
 
 <img src="https://tinyurl.com/58fd4fmx" alt="Banner" width="100%"/>
 
