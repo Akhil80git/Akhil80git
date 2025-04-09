@@ -35,4 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 # 🚀 About Me
 Main ek developer hoon, React seekh raha hoon!
+<img src="https://your-repo-link.com/images/welcome-banner.png" width="100%" />
+
+# Hello there 👋
+Welcome to my GitHub profile!
 
