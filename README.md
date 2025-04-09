@@ -1,3 +1,5 @@
+![Welcome Image](https://example.com/path-to-your-image.jpg)
+
 <img src="https://wallpaperaccess.com/full/317501.jpg" alt="Banner" width="100%"/>
 
 # Welcome to My Profile
