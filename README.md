@@ -7,7 +7,7 @@
 ![Image 1](https://github.com/user-attachments/assets/9deac93a-72e6-4ba7-96bb-9d459e12b0d2)
 
 ## 🖼️ Screenshot 2
-![Image 2](https://github.com/user-attachments/assets/9c1a960)
+![Image 2](https://i.ibb.co/MyQQGQsS/1000006725.jpg)
 
 
 # Welcome to My Profile
