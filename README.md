@@ -4,7 +4,7 @@
   # 📸 Project Screenshots
 
 ## 🖼️ Screenshot 1
-![Image 1](https://i.ibb.co/vMvBy8M/akhilesh.jpg)
+![Image 1](https://ibb.co/s9j8641s)
 
 ## 🖼️ Screenshot 2
 ![Image 2](https://i.ibb.co/vMvBy8M/akhilesh.jpg)
